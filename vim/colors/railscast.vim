@@ -32,8 +32,6 @@ hi Directory  guifg=#A5C160 gui=NONE
 hi Error      guifg=#FFFFFF guibg=#990000
 hi MatchParen guifg=NONE    guibg=#131313
 hi Title      guifg=#E6E1DC
-"Take the ~ notation away
-hi NonText cterm=NONE guifg=bg guibg=bg gui=NONE
 
 "Set the line between nerdtree and file window to disappear
 hi VertSplit ctermfg=59 ctermbg=59 cterm=NONE guifg=#555552 guibg=#555552 gui=NONE
